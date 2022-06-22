@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{9909812B-F92A-4399-AAA3-BCDD22BAB590}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test2/Models/s22284Context.cs">
+    <Files>
+      <File FileName="Test2/Program.cs" Line="13" Column="35" />
+      <File FileName="Test2/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Test2/appsettings.json" Line="1" Column="1" />
+      <File FileName="../../tutorial-8-s22284/task8/task8/Program.cs" Line="7" Column="1" />
+      <File FileName="../../tutorial-8-s22284/task8/task8/appsettings.json" Line="1" Column="1" />
+      <File FileName="../../tutorial-8-s22284/task8/task8/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="../../tutorial-8-s22284/task8/task8/Models/s22284Context.cs" Line="29" Column="10" />
+      <File FileName="Test2/Models/s22284Context.cs" Line="29" Column="6" />
+      <File FileName="../../tutorial-8-s22284/task8/task8/Models/Doctor.cs" Line="1" Column="1" />
+      <File FileName="../../tutorial-8-s22284/task8/task8/Models/Medicament.cs" Line="1" Column="1" />
+      <File FileName="../../tutorial-8-s22284/task8/task8/Models/Prescription.cs" Line="2" Column="13" />
+      <File FileName="../../tutorial-8-s22284/task8/task8/Controllers/DoctorController.cs" Line="7" Column="17" />
+      <File FileName="../../tutorial-8-s22284/task8/task8/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="../../tutorial-8-s22284/task8/task8/Models/PrescriptionMedicament.cs" Line="1" Column="1" />
+      <File FileName="../../tutorial-8-s22284/task8/task8/Models/Patient.cs" Line="1" Column="1" />
+      <File FileName="../../tutorial-8-s22284/task8/task8/DTO/DoctorDTO.cs" Line="1" Column="1" />
+      <File FileName="../../tutorial-8-s22284/task8/task8/DTO/MedicamentDTO.cs" Line="1" Column="1" />
+      <File FileName="../../tutorial-8-s22284/task8/task8/DTO/PrescriptionDto.cs" Line="1" Column="1" />
+      <File FileName="../../tutorial-8-s22284/task8/task8/Services/DoctorService.cs" Line="104" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Test2" expanded="True">
+            <Node name="task8" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DTO" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="Test2" expanded="True" selected="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Test2 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+</Properties>
